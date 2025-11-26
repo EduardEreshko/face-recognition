@@ -1,4 +1,4 @@
-# Старт в Распознавании Лиц
+# FaceRecognitionStarter
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)](https://scikit-learn.org/)
